@@ -1,8 +1,11 @@
 # AWS-Technical-Essentials
 
 AWS Technical Essentials Project – Server Monitoring
+
 Project 1
+
 DESCRIPTION
+
 Heaven Classics successfully creates an EC2 Server Instance for Windows 2012 Server. After launching the instance on the server, the next step was to monitor the operations.
 Monitoring is important to keep an eye on the performance of an EC2 instance. It helps gather data from all parts and is useful for debugging failure.
 The monitoring team at Heaven Classics started monitoring activities using the CloudWatch Service in the AWS Management Console. The Heaven Classics support team were required to meet the following objectives:
